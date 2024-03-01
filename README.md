@@ -1,2 +1,2 @@
 # asd-cwiczenia
-Zadania z ćwiczeń ASD
+Zadania z ćwiczeń algorytmy i struktury danych. 
